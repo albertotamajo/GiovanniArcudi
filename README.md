@@ -8,4 +8,4 @@ I am a second-year Computer Science with AI student at the [University of Southa
 
 Alongside my studies, I am also a part-time Machine Learning Research Assistant at the [IT Innovation Center](http://www.it-innovation.soton.ac.uk/), where I am working on the [TriagED](http://www.it-innovation.soton.ac.uk/projects/triaged) project, funded by [The Alan Turing Institute](https://www.turing.ac.uk/research/research-projects/decision-support-algorithms-emergency-departments).
 
-I have a strong interest in AI/ML advancements (with a particular focus on FinTech applications such as Algorithmic Trading and Sentiment Analysis) and Quantum Computing applications. 
+I have a strong interest in AI/ML (with a particular focus on FinTech applications such as Algorithmic Trading and Sentiment Analysis) and Quantum Computing applications. 
